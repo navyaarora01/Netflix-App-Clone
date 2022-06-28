@@ -13,7 +13,6 @@ const Movie = ({item}) => {
                 <p>
                     {like ?<FaHeart className='absolute top-4 left-4 text-gray-300'/> :<FaRegHeart className='absolute top-4 left-4 text-gray-3' />}
                 </p>
-                <div></div>
              </div>
     </div>
   )
